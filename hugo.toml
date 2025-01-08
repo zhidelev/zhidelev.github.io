@@ -1,0 +1,4 @@
+baseURL = 'https://zhidelev.github.io/'
+languageCode = 'en-us'
+title = 'zhidelev.github.io'
+theme = 'KeepIt'
